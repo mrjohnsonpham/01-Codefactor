@@ -1,4 +1,4 @@
-# 01-HW-Codefactor
+# 01-Codefactor
 
 
 What was improved:
